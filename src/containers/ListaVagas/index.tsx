@@ -118,13 +118,3 @@ const ListaVagas = () => {
 }
 
 export default ListaVagas
-            salarioMax={vag.salarioMax}
-            requisitos={vag.requisitos}
-          />
-        ))}
-      </ul>
-    </div>
-  )
-}
-
-export default ListaVagas
